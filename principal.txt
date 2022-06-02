@@ -1,3 +1,9 @@
 ola mundo
 nome = input('digite o seu nome: ')
 print('ola' + nome)
+
+# criando um sistema de login e senho 
+
+digite a sua senha 
+fdgfsdnpgsdf
+gfpdsgs
